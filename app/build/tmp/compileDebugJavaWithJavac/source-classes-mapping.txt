@@ -1,0 +1,8 @@
+usa/sesion1/reto1/BuildConfig.java
+ usa.sesion1.reto1.BuildConfig
+usa/sesion1/reto1/MainActivity.java
+ usa.sesion1.reto1.MainActivity
+ usa.sesion1.reto1.MainActivity$1
+ usa.sesion1.reto1.MainActivity$2
+ usa.sesion1.reto1.MainActivity$3
+ usa.sesion1.reto1.MainActivity$4
