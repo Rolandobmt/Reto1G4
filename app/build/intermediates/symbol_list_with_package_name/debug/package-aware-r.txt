@@ -932,6 +932,7 @@ id pathRelative
 id percent
 id position
 id postLayout
+id productos
 id progress_circular
 id progress_horizontal
 id radio
@@ -957,6 +958,7 @@ id search_plate
 id search_src_text
 id search_voice_btn
 id select_dialog_listview
+id servicios
 id shortcut
 id showCustom
 id showHome
@@ -980,6 +982,7 @@ id staticPostLayout
 id stop
 id submenuarrow
 id submit_area
+id sucursales
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -1058,6 +1061,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+menu menudeopciones
 mipmap gourmet
 mipmap gourmet_foreground
 mipmap gourmet_round

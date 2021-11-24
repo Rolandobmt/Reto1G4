@@ -3,6 +3,7 @@ package usa.sesion1.reto1;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
@@ -31,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
         btnGraten = (Button) findViewById(R.id.btnGraten);
         btnRatatouille = (Button) findViewById(R.id.btnRatatouille);
         btnBullabesa = (Button) findViewById(R.id.btnBullabesa);
+
+
 
         btnCassoulet.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -62,4 +65,27 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu){
+        getMenuInflater().inflate(R.menu.menudeopciones, menu);
+        return true;
+
+    }
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item){
+        switch (item.getItemId()){
+            case R.id.productos:
+                Toast.makeText(getApplicationContext(), "Estos son nuestros Productos", Toast.LENGTH_LONG).show();
+                return true;
+            case R.id.servicios:
+                Toast.makeText(getApplicationContext(), "Estos son nuestros Servicios", Toast.LENGTH_LONG).show();
+                return true;
+            case R.id.sucursales:
+                Toast.makeText(getApplicationContext(), "Estas son nuestras Sucursales", Toast.LENGTH_LONG).show();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+
+        }
+    }
 }

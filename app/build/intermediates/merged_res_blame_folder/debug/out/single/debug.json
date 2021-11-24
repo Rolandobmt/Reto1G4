@@ -28,6 +28,10 @@
         "source": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\src\\main\\res\\mipmap-anydpi-v26\\gourmet_round.xml"
     },
     {
+        "merged": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\build\\intermediates\\merged_res\\debug\\menu_menudeopciones.xml.flat",
+        "source": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\src\\main\\res\\menu\\menudeopciones.xml"
+    },
+    {
         "merged": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\build\\intermediates\\merged_res\\debug\\drawable_cassoulet.jpg.flat",
         "source": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\src\\main\\res\\drawable\\cassoulet.jpg"
     },
