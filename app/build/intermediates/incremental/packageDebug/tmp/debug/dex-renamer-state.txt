@@ -1,4 +1,4 @@
-#Wed Nov 24 15:25:08 COT 2021
+#Wed Nov 24 17:08:37 COT 2021
 base.2=D\:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
 path.2=14/classes.dex
 base.1=D\:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

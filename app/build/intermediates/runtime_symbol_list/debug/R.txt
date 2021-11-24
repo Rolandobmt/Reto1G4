@@ -835,7 +835,7 @@ int id btnBullabesa 0x7f070031
 int id btnCassoulet 0x7f070032
 int id btnGraten 0x7f070033
 int id btnRatatouille 0x7f070034
-int id button 0x7f070035
+int id btnRegistro 0x7f070035
 int id buttonPanel 0x7f070036
 int id cache_measures 0x7f070037
 int id center 0x7f070038

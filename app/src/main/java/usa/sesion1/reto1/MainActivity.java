@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.registro:
                 Intent intent = new Intent(this, Registro.class);
                 startActivity(intent);
+                //Toast.makeText(getApplicationContext(), "Tu Registro", Toast.LENGTH_LONG).show();
                 return true;
             case R.id.productos:
                 Toast.makeText(getApplicationContext(), "Estos son nuestros Productos", Toast.LENGTH_LONG).show();

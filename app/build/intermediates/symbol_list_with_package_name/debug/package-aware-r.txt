@@ -836,7 +836,7 @@ id btnBullabesa
 id btnCassoulet
 id btnGraten
 id btnRatatouille
-id button
+id btnRegistro
 id buttonPanel
 id cache_measures
 id center
