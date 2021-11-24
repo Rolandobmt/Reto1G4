@@ -70,9 +70,11 @@
                 {
                     "source": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\src\\main\\res\\values\\gourmet_background.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "52",
+                        "endOffsets": "105"
                     },
                     "to": {
                         "startLines": "320",
@@ -85,11 +87,9 @@
                 {
                     "source": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "10,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "4,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "371,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "39,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "406,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "302,303,345,346,347,358,359,362",
