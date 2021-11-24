@@ -74,6 +74,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item){
         switch (item.getItemId()){
+            case R.id.registro:
+                Toast.makeText(getApplicationContext(), "Enviar a página de registro", Toast.LENGTH_LONG).show();
+                return true;
             case R.id.productos:
                 Toast.makeText(getApplicationContext(), "Estos son nuestros Productos", Toast.LENGTH_LONG).show();
                 return true;

@@ -938,6 +938,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id registro
 id reverseSawtooth
 id right
 id right_icon

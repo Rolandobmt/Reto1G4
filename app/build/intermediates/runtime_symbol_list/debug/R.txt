@@ -937,6 +937,7 @@ int id progress_horizontal 0x7f070097
 int id radio 0x7f070098
 int id ratio 0x7f070099
 int id rectangles 0x7f07009a
+int id registro 0x7f0700ea
 int id reverseSawtooth 0x7f07009b
 int id right 0x7f07009c
 int id right_icon 0x7f07009d
