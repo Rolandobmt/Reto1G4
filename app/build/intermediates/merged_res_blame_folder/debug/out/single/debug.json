@@ -52,6 +52,10 @@
         "source": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\src\\main\\res\\mipmap-xhdpi\\gourmet_foreground.png"
     },
     {
+        "merged": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registro.xml.flat",
+        "source": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\src\\main\\res\\layout\\activity_registro.xml"
+    },
+    {
         "merged": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_gourmet.png.flat",
         "source": "D:\\DOCUMENTOS\\PROGRAMACION\\MINTIC\\APLICACIONES\\Reto1\\app\\src\\main\\res\\mipmap-xxxhdpi\\gourmet.png"
     },

@@ -69,13 +69,14 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu){
         getMenuInflater().inflate(R.menu.menudeopciones, menu);
         return true;
-
     }
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item){
         switch (item.getItemId()){
             case R.id.registro:
-                Toast.makeText(getApplicationContext(), "Enviar a página de registro", Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(this, Registro.class);
+                startActivity(intent);
                 return true;
             case R.id.productos:
                 Toast.makeText(getApplicationContext(), "Estos son nuestros Productos", Toast.LENGTH_LONG).show();

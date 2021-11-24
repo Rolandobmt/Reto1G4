@@ -836,6 +836,7 @@ id btnBullabesa
 id btnCassoulet
 id btnGraten
 id btnRatatouille
+id button
 id buttonPanel
 id cache_measures
 id center
@@ -874,6 +875,8 @@ id easeIn
 id easeInOut
 id easeOut
 id edit_query
+id edtNuevaClave
+id edtNuevoUsuario
 id end
 id expand_activities_button
 id expanded_menu
@@ -1008,6 +1011,7 @@ id tvwCassoulet
 id tvwCassouletPrecio
 id tvwGraten
 id tvwGratenPrecio
+id tvwMensaje
 id tvwMenu
 id tvwRatatouille
 id tvwRatatouillePrecio
@@ -1052,6 +1056,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_registro
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
