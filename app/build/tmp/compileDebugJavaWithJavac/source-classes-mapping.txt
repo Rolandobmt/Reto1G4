@@ -2,6 +2,7 @@ usa/sesion1/reto1/BuildConfig.java
  usa.sesion1.reto1.BuildConfig
 usa/sesion1/reto1/Registro.java
  usa.sesion1.reto1.Registro
+ usa.sesion1.reto1.Registro$1
 usa/sesion1/reto1/MainActivity.java
  usa.sesion1.reto1.MainActivity
  usa.sesion1.reto1.MainActivity$1
